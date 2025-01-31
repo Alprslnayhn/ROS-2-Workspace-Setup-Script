@@ -17,8 +17,8 @@ This script helps automate the setup of your ROS 2 workspace, including installi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ros2-workspace-setup.git
-   cd ros2-workspace-setup
+   git clone https://github.com/Alprslnayhn/ROS-2-Workspace-Setup-Script.git
+   cd ROS-2-Workspace-Setup-Script.git
    ```
 
 2. Run the script:
